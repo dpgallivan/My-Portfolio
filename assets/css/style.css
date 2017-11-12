@@ -1,0 +1,36 @@
+h1 {
+	text-align: center;
+}
+
+#about {
+	text-align: center;
+	padding-top: 20px;
+}
+
+#projects {
+	text-align: center;
+}
+
+.fa-github {
+	background: black;
+	color: white;
+	padding: 5px;
+	margin: 5px;
+	font-size: 30px;
+	width: 40px;
+	height: 40px;
+}
+
+.fa-linkedin {
+	background: #007bb5;
+	color: white;
+	padding: 5px;
+	margin: 5px;
+	font-size: 30px;
+	width: 40px;
+	height: 40px;
+}
+
+
+
+
