@@ -1,16 +1,41 @@
+*{
+	font-family: Times New Roman;
+}
 
-h1 {
+#welcome {
 	text-align: center;
+	background: gray;
+	margin: -13px;
+	padding: 10px;
 }
 
 #about {
 	text-align: center;
-	padding-top: 20px;
 	background: #ee6e73;
+	margin: -13px;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	font-size: 20px;
+}
+
+#recent{
+	text-align: center;
 }
 
 #projects {
 	text-align: center;
+}
+
+#lanAndTools {
+	text-align: center;
+}
+
+#tools {
+	text-align: center;
+}
+
+.devicon-html5-wordmark {
+	font-size: 5em;
 }
 
 .fa-github {
